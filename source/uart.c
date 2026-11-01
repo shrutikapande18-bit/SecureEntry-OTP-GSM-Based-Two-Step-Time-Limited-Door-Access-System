@@ -1,0 +1,13 @@
+gsm.o: gsm.c
+gsm.o: C:\KeilARM\ARM\INC\Philips\LPC21xx.h
+gsm.o: C:\KeilARM\ARM\RV31\INC\string.h
+gsm.o: types.h
+gsm.o: uart.h
+gsm.o: types.h
+gsm.o: delay.h
+gsm.o: types.h
+gsm.o: gsm.h
+gsm.o: types.h
+gsm.o: lcd.h
+gsm.o: types.h
+gsm.o: lcd_defines.h

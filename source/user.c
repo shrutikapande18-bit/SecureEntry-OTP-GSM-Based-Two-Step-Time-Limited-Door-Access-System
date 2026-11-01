@@ -1,0 +1,10 @@
+keypad.o: Keypad.c
+keypad.o: C:\KeilARM\ARM\INC\Philips\LPC21xx.h
+keypad.o: types.h
+keypad.o: kpm_defines.h
+keypad.o: defines.h
+keypad.o: lcd_defines.h
+keypad.o: lcd.h
+keypad.o: types.h
+keypad.o: delay.h
+keypad.o: types.h
