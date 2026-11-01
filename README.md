@@ -137,8 +137,11 @@ BLOCK U101
 ```text
 UNBLOCK U101
 ```
+## System Working Flow Diagram
+<img width="1031" height="616" alt="Untitled - Visual 1" src="https://github.com/user-attachments/assets/87a5ef8f-d6b0-48f6-962c-b1713d8db5b1" />
 
-## 📂 Project Modules
+
+## Project Modules
 
 | File | Description |
 |---|---|
