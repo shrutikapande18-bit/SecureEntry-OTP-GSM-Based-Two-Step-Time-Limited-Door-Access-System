@@ -169,9 +169,6 @@ The project follows a modular development approach:
 9. 🔧 Integration of all peripherals into the main application.
 10. 🔐 Implementation of authentication, OTP verification and remote access control.
 
-## 📸 Expected Result
-
-The system provides secure door access through password and OTP verification. It also supports remote blocking and unblocking through SMS commands sent from registered mobile numbers.
 
 ## 📚 Learning Outcomes
 
